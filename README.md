@@ -1,7 +1,13 @@
-<div style="display: flex; align-items: center; justify-content: center; text-align: center"> 
-    <img src="screenshots/guia.png" alt="Logo GUIA" width="50"/> 
-    <h1 style="margin-left: 20px; margin-bottom: 40px">GUIA - Geopark</h1>
-</div>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="screenshots/guia.png" alt="Logo GUIA" width="50"/>
+    </td>
+    <td style="border: none; text-align: center;">
+      <h1 style="margin-bottom: 50px">GUIA - Geopark</h1>
+    </td>
+  </tr>
+</table>
 
 A aplicação GUIA permite aos utilizadores explorarem a zona do geoparque estrela através de informação detalhada e imagens de rotas e pontos de interesse. A aplicação também possibilita guardar uma lista de favoritos para consulta posterior e oferece funcionalidades de GPS para que os utilizadores registados possam seguir o caminho certo nas rotas escolhidas.
 
@@ -18,7 +24,7 @@ A aplicação GUIA permite aos utilizadores explorarem a zona do geoparque estre
 
 ## Layouts e Imagens
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
   <img src="screenshots/BannerPlayStore.jpg" alt="Banner Play Store" width="300"/>
 </div>
 
@@ -49,4 +55,4 @@ Este projeto não contém código fonte devido a restrições de propriedade int
 
 ---
 
-Espero que isto atenda às tuas necessidades! Se precisares de mais alguma alteração ou ajuda, estou à disposição.
+Espero que isto atenda às tuas necessidades! Se precisares de mais alguma alteração ou ajuda, estou à disposição. 😊
