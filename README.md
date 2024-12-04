@@ -25,7 +25,7 @@ A aplicação GUIA permite aos utilizadores explorarem a zona do geoparque estre
 ## Layouts e Imagens
 
 <div style="display: flex;">
-  <img src="screenshots/BannerPlayStore.jpg" alt="Banner Play Store" width="300"/>
+  <img src="screenshots/BannerPlayStore.jpg" alt="Banner Play Store" width="304"/>
 </div>
 
 <div style="display: flex;">
