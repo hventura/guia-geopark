@@ -52,7 +52,3 @@ Este projeto visa proporcionar uma experiência rica e informativa para os visit
 ## Licença
 
 Este projeto não contém código fonte devido a restrições de propriedade intelectual da empresa anterior.
-
----
-
-Espero que isto atenda às tuas necessidades! Se precisares de mais alguma alteração ou ajuda, estou à disposição. 😊
